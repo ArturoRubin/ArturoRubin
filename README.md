@@ -9,12 +9,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+![js](https://user-images.githubusercontent.com/116040655/226737139-fc4efb87-de34-4fd1-9d8a-36af2ecccba5.svg)
 
 <br/>
 
